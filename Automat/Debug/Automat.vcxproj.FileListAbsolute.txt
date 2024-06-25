@@ -1,0 +1,6 @@
+C:\Users\micro\OneDrive - ts-aalen.de\Dokumente\Schule\Unterlagen\TG12_3\OOP\01_VisualC++\03_Zustand\Automat_Vorlage\Automat\Debug\Automat.vcxproj.AssemblyReference.cache
+C:\Users\micro\OneDrive - ts-aalen.de\Dokumente\Schule\Unterlagen\TG12_3\OOP\01_VisualC++\03_Zustand\Automat_Vorlage\Automat\Debug\Toaster.Form1.resources
+C:\Users\micro\OneDrive - ts-aalen.de\Dokumente\Schule\Unterlagen\TG12_3\OOP\01_VisualC++\03_Zustand\Automat_Vorlage\Automat\Debug\Automat.vcxproj.GenerateResource.cache
+I:\Automat_Vorlage\Automat\Debug\Automat.vcxproj.AssemblyReference.cache
+I:\Automat_Vorlage\Automat\Debug\Toaster.Form1.resources
+I:\Automat_Vorlage\Automat\Debug\Automat.vcxproj.GenerateResource.cache

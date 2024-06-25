@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: Das Zwischenverzeichnis (Debug\) enthält freigegebene Dateien aus einem anderen Projekt (Toaster.vcxproj, Vorlage.vcxproj). Dies kann zu einem falschen Bereinigungs- und Neuerstellungsverhalten führen.
+  pch.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinformsProjekt.cpp
+  Form1.cpp
+  StateMachine.cpp
+  Automat.cpp
+  Transition.cpp
+  Automat_Transitionen.cpp
+  Zustand.cpp
+  Automat_Zustaende.cpp
+  Code wird generiert...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL-Modulgefunden; inkrementelles Verknüpfen wird für MSIL deaktiviert; vollständiger Link wird durchgeführt
+  Toaster.vcxproj -> C:\Users\micro\OneDrive - ts-aalen.de\Dokumente\Schule\Unterlagen\TG12_3\OOP\01_VisualC++\03_Zustand\Automat_Vorlage\Debug\Automat.exe
